@@ -1,0 +1,75 @@
+header {
+    background-image: url('pic.jpg');
+    background-blend-mode:multiply;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-color: grey;
+color: azure;
+    height: 700px;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    /* text-decoration:underline wavy brown; */
+}
+section{
+    display: inline;
+}
+.first-div {
+    border: 2px solid forestgreen;
+    padding: 20px;
+    background-color: rgb(162, 196, 196);
+    
+}
+
+.one {
+    color: darkcyan;
+    font-size: 21px;
+   text-decoration: wavy;
+   text-decoration: underline;
+}
+
+.p-one {
+    color: seagreen;
+    font-size: 18px;
+}
+
+.p-two {
+    color: brown;
+    font-size: 18px;
+}
+
+.p-three {
+    color: rgb(31, 108, 195);
+    font-size: 18px;
+}
+
+.two {
+    color: coral;
+    font-size: 21px;
+    text-decoration: underline;
+}
+
+.second-div {
+    border: 2px solid rgb(179, 188, 8);
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgb(186, 137, 137);
+}
+
+.three {
+    color: rgb(60, 60, 218);
+    font-size: 21px;
+    text-decoration: underline;
+
+}
+
+.third-div {
+    border: 2px solid rgb(3, 88, 110);
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rgb(135, 135, 201);
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+}
